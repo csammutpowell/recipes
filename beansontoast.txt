@@ -1,2 +1,8 @@
 beans
 bread
+
+1. Toast bread
+2. Open tin
+3. Heat up beans
+4. Put on toast
+
